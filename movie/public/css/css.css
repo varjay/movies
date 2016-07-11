@@ -1,0 +1,16 @@
+.vj-navbar-top {min-height: 28px;border-radius: 0;}
+.vj-navbar-top .navbar-brand{height: 28px;line-height: 0px;font-size: 14px;padding: 14px 15px;}
+.vj-navbar-top .navbar-text{margin: 0;font-size: 12px;line-height: 28px;}
+
+.vj-margin-padding-0{margin: 0;padding:0 !important;}
+.vj-margin-padding-0 a{margin: 0;padding: 4px 10px !important;}
+
+
+@media (max-width: 767px){
+	.vj-navbar-top .navbar-brand{
+        height: 50px;
+	    padding: 15px 15px;
+	    font-size: 18px;
+	    line-height: 20px;
+	}
+}

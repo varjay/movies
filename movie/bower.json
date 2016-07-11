@@ -1,0 +1,19 @@
+{
+  "name": "movie",
+  "description": "movie cms",
+  "authors": [
+    "virjay"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
